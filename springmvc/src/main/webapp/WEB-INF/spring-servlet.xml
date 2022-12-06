@@ -32,9 +32,9 @@
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://localhost:3306/envosys" />
+			value="jdbc:mysql://localhost:3306/mydb" />
 		<property name="username" value="root" />
-		<property name="password" value="mms@2382" />
+		<property name="password" value="admin" />
 
 	</bean>
 
